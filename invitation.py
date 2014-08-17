@@ -1,5 +1,9 @@
 #!/shrini/nithya/marriage
 
+# This is just a code. Dot try running it.
+#You cannot import god and blessings :-)
+
+
 """
 .. module:: invitation.shy
     :synopsis: We fell in love on each other by pushed by our parents
